@@ -1,0 +1,5 @@
+{
+	"ip":"khalnayak_smp.aternos.me",
+	"port": "20865",
+	"name": "ansh"
+}
